@@ -1,4 +1,4 @@
 # Rock-Paper-Scissors
 The game
 
-![alt text](http://rock-paper-scissors.PNG)
+![Test Image 1](rock-paper-scissors.PNG)
